@@ -1,0 +1,8 @@
+{
+  "name": "Mall",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "2840c21c"
+}
